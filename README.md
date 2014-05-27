@@ -1,0 +1,4 @@
+mindway
+=======
+
+emulator of mind
